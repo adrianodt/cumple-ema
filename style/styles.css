@@ -92,6 +92,10 @@ main .text4 {
     /* text-shadow: white 1px 0 10px; */
 }
 
+main .text4 img {
+    width: 200px;
+}
+
 .btn-whatsapp {
     margin-top: 10px;
 }
