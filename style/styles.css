@@ -92,6 +92,23 @@ main .text4 {
     /* text-shadow: white 1px 0 10px; */
 }
 
+
+.outfit {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+
+.textnew {
+    padding: 0px 20px;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.outfit img {
+    height: 200px;
+}
+
 main .text4 img {
     width: 200px;
 }
